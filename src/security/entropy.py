@@ -18,7 +18,7 @@ def check_possibilities(passcode):
         character_pool +=32
     return character_pool
 
-def caculate_entropy(password):
+def calculate_entropy(password):
     '''This function calculates the entropy and returns it'''
     length = len(password)
     charset_size = check_possibilities(password)
