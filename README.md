@@ -1,4 +1,4 @@
-# AuthFort-AI – Security Module
+# AuthFort-Sec – Security Module
 
 > A modular cybersecurity password analysis tool that delivers complete password strength assessments through mathematical analysis, attack simulation, human behavior insights, and actionable advice.
 
@@ -76,7 +76,7 @@ Each file contains:
 **1. Clone the repository:**
 
 ```bash
-git clone <repo_url>
+git clone <https://github.com/Sandesh-Basnet/AuthFort-Sec/>
 ```
 
 **2. Navigate to the source directory:**
@@ -119,4 +119,4 @@ Enter your password and receive:
 
 ---
 
-> **AuthFort-AI** is a practical and modular toolkit for cybersecurity students, developers, and enthusiasts who want to understand and improve password security.
+> **AuthFort-Sec** is a practical and modular toolkit for cybersecurity students, developers, and enthusiasts who want to understand and improve password security.
