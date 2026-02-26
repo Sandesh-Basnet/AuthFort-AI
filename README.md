@@ -10,10 +10,10 @@ The project is structured into separate, well-defined modules. Each module has i
 
 | Module | Responsibility | Documentation |
 |--------|----------------|---------------|
-| **Entropy Calculator** | Measures randomness of the password and calculates entropy in bits. | [docs_for_entropy.md](docs/docs_for_entropy.md) |
+| **Entropy Calculator** | Measures randomness of the password and calculates entropy in bits. | [docs_for_entropy_module.md](docs/docs_for_entropy_module.md) |
 | **Crack Simulator** | Estimates password crack time based on entropy and attacker speed. | [docs_for_crack_simulator.md](docs/docs_for_crack_simulator.md) |
 | **Strength Classifier** | Assigns human-readable strength labels (`UNACCEPTABLY WEAK` → `VERY STRONG`) using entropy and crack time. | [docs_for_strength_classifier.md](docs/docs_for_strength_classifier.md) |
-| **Password Advisor** | Provides actionable, tone-adjusted advice for improving passwords. | [docs_for_password_advisor.md](docs/docs_for_password_advisor.md) |
+| **Password Advisor** | Provides actionable, tone-adjusted advice for improving passwords. | [docs_for_password_advisor.md](docs/docs_for_password_adivisor.md) |
 | **Main App** | Orchestrates all modules and prints a consolidated report for the user. | [docs_for_app.md](docs/docs_for_app.md) |
 
 ---
